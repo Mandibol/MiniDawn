@@ -188,4 +188,11 @@ List<Stat<T>> GrupperaData<T>(List<T> lista)
  * De flesta uppskattar sin erfarenhet till 3 med ett average på 4,36
  * 
  * Så vi har en grupp med nybörjare som tycker att C# är svårt men de uppskattar verkligen språket :)
+ * 
+ * 
+ * Grupp Deltagare:
+ * Alexander Wallberg
+ * Jonathan Johansson
+ * Diala Kul
+ * Qabas Alzaidi
  */
